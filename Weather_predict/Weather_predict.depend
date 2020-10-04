@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1601806703 source:c:\users\lenovo\desktop\geni project\weather_predict\climate.cpp
+	"climate.h"
+
+1601804706 c:\users\lenovo\desktop\geni project\weather_predict\climate.h
+	<iostream>
+
+1601813399 source:c:\users\lenovo\desktop\geni project\weather_predict\data.cpp
+	"data.h"
+	<string>
+
+1601813388 c:\users\lenovo\desktop\geni project\weather_predict\data.h
+	<iostream>
+	<string>
+	"climate.h"
+	"region.h"
+
+1601813741 c:\users\lenovo\desktop\geni project\weather_predict\region.h
+	<iostream>
+	<string>
+
+1601796725 source:c:\users\lenovo\desktop\geni project\weather_predict\weather_predict.cc
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<iterator>
+
+1601814097 source:c:\users\lenovo\desktop\geni project\weather_predict\weather_changes.cpp
+	"region.h"
+	"Weather_changes.h"
+	"climate.h"
+	<list>
+	<vector>
+	<iterator>
+	<iostream>
+	<string>
+	<sstream>
+	<fstream>
+
+1601814182 c:\users\lenovo\desktop\geni project\weather_predict\weather_changes.h
+	"region.h"
+	"climate.h"
+	<list>
+	<vector>
+	<iterator>
+	<string>
+
+1601814681 source:c:\users\lenovo\desktop\geni project\weather_predict\region.cpp
+	"region.h"
+
+1601816009 source:c:\users\lenovo\desktop\geni project\weather_predict\testfile.cpp
+	"gtest/gtest.h"
+	"Weather_changes.h"
+	<iostream>
+	<list>
+	<vector>
+	<iterator>
+	<string>
+	<sstream>
+	<fstream>
+	<cstdlib>
+
