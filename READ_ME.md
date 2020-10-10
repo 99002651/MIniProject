@@ -1,0 +1,1 @@
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/392f30f5c76f4f63ab74e25591bed834)](https://www.codacy.com/gh/99002651/MiniProject/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=99002651/MiniProject&amp;utm_campaign=Badge_Grade)
